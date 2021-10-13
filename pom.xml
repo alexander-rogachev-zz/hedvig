@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>se.hedvig.task</groupId>
-	<artifactId>Task</artifactId>
+	<artifactId>task</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Task</name>
 	<description>Test task for Hedvig</description>
